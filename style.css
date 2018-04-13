@@ -631,12 +631,12 @@ a:hover, a:active {
 }
 
 .hero-content a {
-    margin-top: 300px;
+    margin-top: 420px;
     font-size: 1.9rem;
     font-weight: 600;
     color: #ffc765;
-    letter-spacing: 3px;
-    text-decoration: underline;
+    letter-spacing: 1px;
+    text-shadow: 4px 3px #20303c;
 }
 
 .swiper-container-horizontal>.swiper-pagination-bullets,
