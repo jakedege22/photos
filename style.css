@@ -402,10 +402,10 @@ img {
 # Links
 --------------------------------------------------------------*/
 a {
-    color: royalblue;
+    color: #ffc765;
 }
 a:visited {
-    color: purple;
+    color: #ffc775;
 }
 
 a:hover, a:focus, a:active {
