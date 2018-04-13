@@ -631,8 +631,8 @@ a:hover, a:active {
 }
 
 .hero-content a {
-      margin-top: 440px;
-    font-size: 3.4rem;
+    margin-top: 215px;
+    font-size: 1.8rem;
     font-weight: 600;
     color: #ffc765;
     letter-spacing: 1px;
@@ -716,6 +716,10 @@ a:hover, a:active {
     .hero-content {
         height: calc(100vh - 220px);
         padding: 0;
+    }
+    .hero-content a {
+            margin-top: 440px;
+            font-size: 3.4rem;
     }
 }
 
