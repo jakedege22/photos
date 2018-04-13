@@ -590,7 +590,7 @@ a:hover, a:active {
 
 .header-email a {
     color: #ffc765;
-    font-size: 13px;
+    font-size: 11px;
 }
 
 @media (min-width: 576px) {
