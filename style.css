@@ -458,7 +458,9 @@ a:hover, a:active {
 .site-title {
     margin: 0;
 }
-
+.logo {
+  max-height: 45px;
+}
 /*
   Hamburger Menu
 ----------------------------------------*/
