@@ -764,7 +764,7 @@ a:hover, a:active {
 @media screen and (min-width: 992px) {
     .content-area {
         width: 100%;
-        max-height: calc(100vh - 160px);
+        max-height: calc(100vh - 220px);
         overflow-y: auto;
     }
 }
