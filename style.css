@@ -631,12 +631,13 @@ a:hover, a:active {
 }
 
 .hero-content a {
-    margin-top: 420px;
-    font-size: 1.9rem;
+      margin-top: 440px;
+    font-size: 3.4rem;
     font-weight: 600;
     color: #ffc765;
     letter-spacing: 1px;
-    text-shadow: 4px 3px #20303c;
+    text-shadow: 2px 2px #20303c;
+    opacity: 0.9;
 }
 
 .swiper-container-horizontal>.swiper-pagination-bullets,
