@@ -403,7 +403,6 @@ img {
 a {
     color: royalblue;
 }
-
 a:visited {
     color: purple;
 }
@@ -458,7 +457,7 @@ a:hover, a:active {
 .site-title {
     margin: 0;
 }
-.logo {
+.image-logo {
   max-height: 45px;
 }
 /*
