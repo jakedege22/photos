@@ -388,8 +388,9 @@ img.mfp-img {
 }
 
 body {
-    color: #191919;
+        color: #4c4c4c;
     font-family: 'Work Sans', sans-serif;
+    font-size: 24px;
 }
 
 img {
