@@ -618,7 +618,7 @@ a:hover, a:active {
 --------------------------------------------------------------*/
 .hero-content {
     height: auto;
-    padding: 150px 0;
+    padding: 50px 0;
     text-align: center;
     background-size: cover !important;
     background-position: center center !important;
@@ -632,6 +632,7 @@ a:hover, a:active {
 
 .hero-content a {
     margin-top: 300px;
+    font-size: 1.9rem;
     font-weight: 600;
     color: #ffc765;
     letter-spacing: 3px;
