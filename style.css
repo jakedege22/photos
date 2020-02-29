@@ -633,11 +633,11 @@ a:hover, a:active {
 
 .hero-content a {
     margin-top: 335px;
-    font-size: 1.0rem;
+    font-size: 2.0rem;
     font-weight: 600;
     color: #ffffff;
     letter-spacing: 1px;
-    text-shadow: 2px 2px #20303c;
+    text-shadow: 3px 3px #20303c;
     
 }
 
